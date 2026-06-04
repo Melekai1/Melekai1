@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I'm Melekai, and I'm a Software Engineering student at Cal State San Marcos.
+My tech slack includes HTML, CSS, JavaScript, C++, and Java.
+I am also familiar with Spring Boot and Git.
+
+I'm currently working on
+  - CS Test Prep Website (https://melekai1.github.io/CSUSM-Computer-Science-Test-Prep/) - Quizzes for CS Students
+  - Movie Analyzer (https://github.com/Melekai1/CS-111-Final-Project) - Analyzes dataset of films
+  - Mushroom Kingdom Life Simulator (https://github.com/Melekai1/Mushroom-Kingdom-Life-Simulator) - Text-based simulation based on Super Mario
+    
 <!--
 **Melekai1/Melekai1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
