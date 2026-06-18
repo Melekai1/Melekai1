@@ -9,7 +9,6 @@ I'm looking to collaborate with like-minded software engineers in the world of t
 I'm currently working on
   - CS Test Prep Website (https://melekai1.github.io/CSUSM-Computer-Science-Test-Prep/) - Quizzes for CS Students
   - Movie Analyzer (https://github.com/Melekai1/CS-111-Final-Project) - Analyzes dataset of films
-  - Mushroom Kingdom Life Simulator (https://github.com/Melekai1/Mushroom-Kingdom-Life-Simulator) - Text-based simulation based on Super Mario
 
 How to reach me:
   - Email: melekaiyewondwossen13@gmail.com
