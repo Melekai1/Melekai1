@@ -1,14 +1,13 @@
 ## Hi there 👋
 
 I'm Melekai, and I'm a Software Engineering student at Cal State San Marcos.
-My tech slack includes HTML, CSS, JavaScript, C++, and Java.
+My tech stack includes HTML, CSS, JavaScript, C++, Java, and Python.
 I am also familiar with Spring Boot and Git.
 
 I'm looking to collaborate with like-minded software engineers in the world of technology and software!
 
 I'm currently working on
-  - CS Test Prep Website (https://melekai1.github.io/CSUSM-Computer-Science-Test-Prep/) - Quizzes for CS Students
-  - Movie Analyzer (https://github.com/Melekai1/CS-111-Final-Project) - Analyzes dataset of films
+  - Movie Analyzer (https://github.com/Melekai1/Movie-Analyzer) - Analyzes dataset of films
 
 How to reach me:
   - Email: melekaiyewondwossen13@gmail.com
